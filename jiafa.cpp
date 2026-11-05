@@ -8,4 +8,5 @@ int main()
     sum=a+b;
     cout<<sum<<endl;
     return 0;
+    //为什么提交不了？？
 }
