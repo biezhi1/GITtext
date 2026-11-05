@@ -9,4 +9,5 @@ int main()
     cout<<sum<<endl;
     return 0;
     //为什么提交不了？？
+    //dierci
 }
